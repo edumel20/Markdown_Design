@@ -26,5 +26,23 @@ Se le asigna una de las categorías al púgil dependiendo del peso que posea el 
 |Wélter         |64-69 kg  |
 |Ligero         |57-60 kg  |
 
+#### CÓDIGO
+`console.log("hola mundo")`
+
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:artistas.xsl"?>
+<artistas>
+<artista cod="a101">
+<nombreCompleto>Diego Velázquez</nombreCompleto>
+<nacimiento>1599</nacimiento>
+<fallecimiento>1660</fallecimiento>
+<pais>España</pais>
+<fichaCompleta>https://es.wikipedia.org/wiki/Diego_Vel%C3%A1zquez</fichaCompleta>
+</artista>
+
+
+```
 
 
