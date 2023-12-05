@@ -82,3 +82,8 @@ letra ~~tachada~~
 <!-- Acceso a Imágenes -->
 
 ![visual studio](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png "Visual Studio Code Logo")
+
+* [X] tarea1
+* [ ] tarea2
+* [X] tarea3
+* [ ] tarea4 
