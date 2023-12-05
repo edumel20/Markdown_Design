@@ -18,6 +18,7 @@ Las categorías del boxeo son las siguientes:
 
 Se le asigna una de las categorías al púgil dependiendo del peso que posea el luchador:
 |***Categoría***|***Peso***|
+|---------------|----------|
 |Peso Pesado    |81-91 kg  |
 |Semipesado     |75-81 kg  |
 |Wélter         |64-69 kg  |
