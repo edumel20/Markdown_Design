@@ -45,4 +45,5 @@ Se le asigna una de las categorías al púgil dependiendo del peso que posea el 
 
 ```
 
+[Acceda aquí a la página web de la F.E.B. para más información.](https://www.feboxeo.es "Federación Española de Boxeo")
 
