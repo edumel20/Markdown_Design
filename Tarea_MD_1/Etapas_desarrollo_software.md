@@ -26,4 +26,33 @@ El análisis de requisitos se dividen en:
 
 ___
  ### **2. Diseño**
+La fase de diseño en el desarrollo de software es una etapa crucial donde se planifica y conceptualiza la estructura, el comportamiento y la arquitectura del sistema o la aplicación a desarrollar. Durante esta fase, los diseñadores y los equipos de desarrollo se enfocan en traducir los requisitos y especificaciones del cliente en un diseño técnico detallado que sirva como guía para la implementación.
+
+La fase de diseño es crucial, ya que un diseño sólido sienta las bases para un desarrollo eficiente y exitoso del software, minimizando errores y facilitando la colaboración entre los miembros del equipo.
+
+![Diseño](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fLEu1yb5kYDTNh7POxWjLcwA8uaHC36Baf_u_o9nfoj68efYC2RKNjFd1sWZycgeF9I&usqp=CAU "Diseño de D.S.")
+
+___
+### **3. Codificación y Compilación**
+La fase de codificación y compilación es una etapa fundamental en el ciclo de vida del desarrollo de software, que sigue a la fase de diseño. Aquí es donde los desarrolladores escriben el código fuente basándose en las especificaciones y el diseño elaborado previamente. Esta fase implica la traducción de las ideas y los diseños en lenguaje de programación entendible por el ordenador.
+
+La fase de codificación y compilación es crucial para convertir el diseño conceptual en una implementación práctica y funcional. Es importante destacar que estas etapas son iterativas, lo que significa que los desarrolladores pueden escribir, probar, corregir y mejorar el código repetidamente hasta alcanzar el resultado deseado.
+
+![Compilacion y Codificacion](https://www.ekon.es/wp-content/uploads/2020/09/entornos-de-desarrollo-1.jpg "Fase de Codificación y Compilación")
+
+__
+### **4. Pruebas**
+La fase de pruebas en el desarrollo de software es un proceso crítico que tiene como objetivo identificar y corregir errores, verificar la funcionalidad y asegurar que el software se comporte según lo esperado. Esta etapa se lleva a cabo después de la fase de codificación y compilación.
+
+Existen varios tipos de pruebas:
+* **Pruebas Unitarias**: Son las que verifican componentes o módulos individuales para asegurarse de que funcionen correctamente de forma independiente. 
+
+* **Pruebas de Integración**: Son las que comprueban la interacción entre diferentes módulos o componentes para garantizar que funcionen juntos como un sistema unificado.
+
+![Pruebas](https://www.adictosaltrabajo.com/wp-content/uploads/2019/12/testing-en-un-mundo-agile.png "Pruebas en desarrollo de software")
+
+
+
+
+
 
