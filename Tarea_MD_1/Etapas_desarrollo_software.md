@@ -1,4 +1,4 @@
-![visual studio](https://www.solbyte.com/blog/wp-content/uploads/5-etapas-del-proceso-de-desarrollo-de-software.jpg)
+![](https://www.solbyte.com/blog/wp-content/uploads/5-etapas-del-proceso-de-desarrollo-de-software.jpg)
 
 # ETAPAS DEL DESARROLLO SOFTWARE
 
@@ -7,7 +7,7 @@ El desarrollo software se refiere a un conjunto de actividades informáticas ded
 
 El software en sí es el conjunto de instrucciones o programas que le dicen a un ordenador qué hacer. Es independiente del hardware y hace que los ordenadores sean programables.
 
-![visual studio](https://www.varadero.es/wp-content/uploads/2020/03/servcios-it-desarrollo-software.png "Desarrollo Software")
+![](https://www.varadero.es/wp-content/uploads/2020/03/servcios-it-desarrollo-software.png "Desarrollo Software")
 
 ___
 
