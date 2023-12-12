@@ -91,3 +91,9 @@ letra ~~tachada~~
 <!-- Poner una cita -->
 
 >Eso es una cita
+
+
+<!-- Insertar video de Youtube -->
+
+>[![ve al siguiente video](https://i.ytimg.com/an_webp/pzxr8_uPsko/mqdefault_6s.webp?du=3000&sqp=CKaG4qsG&rs=AOn4CLAFrX6Pn1tFEvOHaG2UhbANp12LWg)]
+[(https://www.youtube.com/watch?v=pzxr8_uPsko)]
