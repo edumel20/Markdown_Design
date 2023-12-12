@@ -40,7 +40,7 @@ La fase de codificación y compilación es crucial para convertir el diseño con
 
 ![Compilacion y Codificacion](https://www.ekon.es/wp-content/uploads/2020/09/entornos-de-desarrollo-1.jpg "Fase de Codificación y Compilación")
 
-__
+___
 ### **4. Pruebas**
 La fase de pruebas en el desarrollo de software es un proceso crítico que tiene como objetivo identificar y corregir errores, verificar la funcionalidad y asegurar que el software se comporte según lo esperado. Esta etapa se lleva a cabo después de la fase de codificación y compilación.
 
