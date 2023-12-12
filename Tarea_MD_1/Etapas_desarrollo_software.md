@@ -49,6 +49,8 @@ Existen varios tipos de pruebas:
 
 * **Pruebas de Integración**: Son las que comprueban la interacción entre diferentes módulos o componentes para garantizar que funcionen juntos como un sistema unificado.
 
+Las pruebas son fundamentales para garantizar la fiabilidad y el rendimiento adecuado del software antes de su lanzamiento o implementación. La fase de pruebas es iterativa, lo que significa que los errores encontrados se corrigen y se vuelven a ejecutar las pruebas para garantizar que el software esté listo para su despliegue.
+
 ![Pruebas](https://www.adictosaltrabajo.com/wp-content/uploads/2019/12/testing-en-un-mundo-agile.png "Pruebas en desarrollo de software")
 
 
