@@ -56,7 +56,9 @@ ___
 ### **5. Explotación**
 La fase de **explotación** en el desarrollo de software se refiere al período en el que el software ya desarrollado y probado se implementa y pone en funcionamiento en un entorno operativo real.
 Durante esta etapa, se lleva a cabo la instalación del software en los sistemas de los usuarios finales y se inicia su uso activo, supervisando su desempeño, realizando ajustes si es necesario y brindando soporte continuo para garantizar su funcionamiento óptimo.
+
 ![Explotación](https://ungoti.com/es/wp-content/uploads/sites/3/Ideas-checklist.png "Fase de Explotación")
+___
 
 
 
