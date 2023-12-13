@@ -52,6 +52,10 @@ Existen varios tipos de pruebas:
 Las pruebas son fundamentales para garantizar la fiabilidad y el rendimiento adecuado del software antes de su lanzamiento o implementación. La fase de pruebas es iterativa, lo que significa que los errores encontrados se corrigen y se vuelven a ejecutar las pruebas para garantizar que el software esté listo para su despliegue.
 
 ![Pruebas](https://www.adictosaltrabajo.com/wp-content/uploads/2019/12/testing-en-un-mundo-agile.png "Pruebas en desarrollo de software")
+___
+### **5. Explotación**
+La fase de **explotación** en el desarrollo de software se refiere al período en el que el software ya desarrollado y probado se implementa y pone en funcionamiento en un entorno operativo real.
+Durante esta etapa, se lleva a cabo la instalación del software en los sistemas de los usuarios finales y se inicia su uso activo, supervisando su desempeño, realizando ajustes si es necesario y brindando soporte continuo para garantizar su funcionamiento óptimo.
 
 
 
