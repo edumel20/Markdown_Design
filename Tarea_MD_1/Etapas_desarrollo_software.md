@@ -54,11 +54,34 @@ Las pruebas son fundamentales para garantizar la fiabilidad y el rendimiento ade
 ![Pruebas](https://www.adictosaltrabajo.com/wp-content/uploads/2019/12/testing-en-un-mundo-agile.png "Pruebas en desarrollo de software")
 ___
 ### **5. Explotación**
-La fase de **explotación** en el desarrollo de software se refiere al período en el que el software ya desarrollado y probado se implementa y pone en funcionamiento en un entorno operativo real.
+La fase de explotación en el desarrollo de software se refiere al período en el que el software ya desarrollado y probado se implementa y pone en funcionamiento en un entorno operativo real.
 Durante esta etapa, se lleva a cabo la instalación del software en los sistemas de los usuarios finales y se inicia su uso activo, supervisando su desempeño, realizando ajustes si es necesario y brindando soporte continuo para garantizar su funcionamiento óptimo.
+
+Es importante garantizar que este proceso se realice de manera cuidadosa y eficiente para minimizar interrupciones y problemas durante el despliegue y asegurar que el software funcione correctamente en su entorno de producción.
 
 ![Explotación](https://ungoti.com/es/wp-content/uploads/sites/3/Ideas-checklist.png "Fase de Explotación")
 ___
+### **6. Mantenimiento**
+La fase de mantenimiento se refiere al período que comienza una vez que el software ha sido desplegado y está en funcionamiento para los usuarios finales. Durante esta etapa, se llevan a cabo actividades destinadas a garantizar que el software siga siendo funcional, seguro, eficiente y cumpla con las necesidades cambiantes de los usuarios.
+
+El mantenimiento de software es una etapa crucial, ya que permite que el software se adapte a las necesidades cambiantes y se mantenga funcional y relevante a lo largo del tiempo. Una gestión efectiva del mantenimiento contribuye a prolongar la vida útil del software y a mejorar la satisfacción del usuario final.
+
+![Mantenimiento](https://www.imagar.com/wp-content/uploads/2020/10/dise%C3%B1o_web_wordpress_2.jpg "Fase de Mantenimiento")
+___
+### **7. Documentación**
+La fase de documentación en el desarrollo de software se refiere al proceso de crear, organizar y mantener documentos que describen diferentes aspectos del software desarrollado. Esta etapa es esencial para capturar y comunicar información relevante sobre el diseño, funcionamiento, implementación y mantenimiento del software.
+
+Existen varios tipos de documentación:
+* **Documentación de requisitos**: Describe los requisitos funcionales y no funcionales del software, especificando lo que debe hacer el sistema y las restricciones que debe cumplir.
+* **Documentación de diseño**: Detalla la arquitectura, la estructura y la lógica interna del software. Puede incluir diagramas de flujo, diagramas de clases, diagramas de secuencia, entre otros.
+* **Documentación técnica**: Proporciona información detallada sobre la implementación del software, incluyendo explicaciones sobre el código fuente, algoritmos utilizados, configuración del sistema, entre otros aspectos técnicos.
+* **Manuales de usuario**: Ofrecen instrucciones detalladas sobre cómo utilizar el software. Pueden incluir guías paso a paso, ejemplos, capturas de pantalla y descripciones de funcionalidades.
+* **Documentación de pruebas**: Describe los casos de prueba, resultados de pruebas y procedimientos de prueba utilizados durante el desarrollo y las pruebas del software.
+
+![Documentación](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPd1CBuh_LMmybGanTtpN-JCReYTgsht923w&usqp=CAU "Fase de Documentación")
+___
+
+[![ Acceda al video para más información](https://softwarewebsas.com/public/images/blog/dev.webp)](https://youtu.be/s5ABwHaN7as?si=Shj-qPXGx9JuCFip)
 
 
 
