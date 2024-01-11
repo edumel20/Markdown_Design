@@ -23,6 +23,6 @@ ___
     
 2. Características de SCRUM
 
-   Scrum en el desarrollo de software se caracteriza por ciclos cortos de trabajo (sprints), roles definidos (Scrum Master, Product Owner, Equipo de Desarrollo), transparencia en la comunicación y procesos, flexibilidad para adaptarse a cambios, entrega incremental de funcionalidades y enfoque en la mejora continua a través de retrospectivas.
+   Scrum en el desarrollo de software se caracteriza por ciclos cortos de trabajo (sprints), roles definidos (Scrum Master, Product Owner, Equipo de Desarrollo), transparencia en la comunicación y procesos, flexibilidad para adaptarse a cambios, entrega incremental de funcionalidades y enfoque en la mejora continua a través de retrospectivas. .......
 
 
